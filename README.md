@@ -3,7 +3,7 @@
 - 🔭 Sou formada em tecnico em Desenvolvimento de Sistemas pela Etec Jales.
 - 👀 Estudante de graduação em Análise e Desenvolvimento de Sistemas na Fatec Jales.
 
-<div align="center">
+<div align="left">
   <a href="https://github.com/nabilasampaio2005/">
   <img height="165em" src="https://github-readme-stats.vercel.app/api?username=nabilasampaio2005&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
   <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nabilasampaio2005&layout=compact&langs_count=7&theme=radical"/>
