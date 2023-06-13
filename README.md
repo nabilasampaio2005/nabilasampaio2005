@@ -18,10 +18,12 @@
 </div>
   
 ##
-  
-<div> 
-  <a href="https://www.linkedin.com/in/nabilasampaio/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+<div style="display: inline_block"><br>
+  <img align="center" height="200" width="200" src="https://github.com/nabilasampaio2005/nabilasampaio2005/assets/127144120/ec89335b-a8fe-4a8e-b265-f0b6a37f01c4"/>
+  <a style="margin-bottom: 150px" href="https://www.linkedin.com/in/nabilasampaio/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 </div>
+  
+ <br>
   
 ![Snake animation](https://github.com/nabilasampaio2005/nabilasampaio2005/blob/output/github-contribution-grid-snake.svg)
 
