@@ -23,9 +23,24 @@
   <img align="left" height="200" width="200" src="https://github.com/nabilasampaio2005/nabilasampaio2005/assets/127144120/ec89335b-a8fe-4a8e-b265-f0b6a37f01c4"/>
   </div>
   
+   <br>
+  
+  <div style= "display: grid">
+  <a href = "mailto:nabilasampaio@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  </div> 
+  
+   <br>
+  
   <div style= "display: grid">
   <a style="margin-left: -100px" href="https://www.linkedin.com/in/nabilasampaio/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
   </div> 
+  
+   <br>
+  
+  <div style= "display: grid">
+  <a href="https://instagram.com/nabilasampaio" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+  </div> 
+  
   </div>
   
  <br>
