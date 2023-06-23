@@ -8,9 +8,9 @@
 <h1  &ensp; <i> I'm Nabila Sampaio.</i> &ensp;</h1>
 <li> 📍 Sou de Jales - SP e tenho 18 anos. </li>
 <br>
-<li> 👩‍💻 Tecnica em Desenvolvimento de Sistemas pela Etec Jales </li>
+<li> 👩‍💻 Técnica em Desenvolvimento de Sistemas pela Etec Jales. </li>
 <br>
-<li> 🚀 Cursando Análise e Desenvolvimento de Sistemas na Fatec. </li>
+<li> 🚀 Cursando Análise e Desenvolvimento de Sistemas na Fatec Jales. </li>
 <br>
 <br>
 
