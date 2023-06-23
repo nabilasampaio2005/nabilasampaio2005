@@ -1,5 +1,5 @@
 <div align="left">
-<img align = "right" width = "500px"  src = "https://i.pinimg.com/originals/a9/24/3d/a9243d82d3ad7878192211221b25a18c.gif">
+<img align = "right" width = "400px"  src = "https://i.pinimg.com/originals/a9/24/3d/a9243d82d3ad7878192211221b25a18c.gif">
 <img height = "70px" src = "https://user-images.githubusercontent.com/92947069/183311882-d6cec5b0-18e8-48cf-a551-098f295fbce5.gif" >
 <h1  &ensp; <i> I'm Nabila Sampaio.</i> &ensp;</h1>
 <li> 📍 Sou de Jales - SP e tenho 18 anos. </li>
