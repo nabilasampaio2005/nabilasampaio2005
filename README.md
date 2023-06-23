@@ -45,13 +45,14 @@
 <br>
 
  <div style= "display: grid">
-  <a href="https://nabilasampaio.wixsite.com/meusite" target="_blank"><img src="https://img.shields.io/badge/portfolio-E4405F?style=for-the-badge&logo&Color=white"&logoColor=white" target="_blank"></a>
-</div> 
-<br>
-     
-  <div style= "display: grid">
   <a style="margin-left: -100px" href="https://www.linkedin.com/in/nabilasampaio/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 </div> 
+<br>
+
+ <div style= "display: grid">
+  <a href="https://nabilasampaio.wixsite.com/meusite" target="_blank"><img src="https://img.shields.io/badge/Portfólio-%23E60023?style=for-the-badge&logo=devdotto&logoColor=white"></a>
+</div> 
+
 
 ![Snake animation](https://github.com/nabilasampaio2005/nabilasampaio2005/blob/output/github-contribution-grid-snake.svg)
 
