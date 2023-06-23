@@ -1,18 +1,19 @@
 <div align="left">
-<img align = "right" width = "300px"  src = "https://i.pinimg.com/originals/a9/24/3d/a9243d82d3ad7878192211221b25a18c.gif">
-<h2  &ensp; <i> Hi! I'm Nabila Sampaio.</i> &ensp;</h2>
+<img align = "right" width = "500px"  src = "https://i.pinimg.com/originals/a9/24/3d/a9243d82d3ad7878192211221b25a18c.gif">
+<img height = "70px" src = "https://user-images.githubusercontent.com/92947069/183311882-d6cec5b0-18e8-48cf-a551-098f295fbce5.gif" >
+<h1  &ensp; <i> I'm Nabila Sampaio.</i> &ensp;</h1>
 <li> 📍 Sou de Jales - SP e tenho 18 anos. </li>
 <br>
-<li> 🚀 Cursando Análise e Desenvolvimento de Sistemas na Fatec. </li>
+<li> 👩‍💻 Tecnica em Desenvolvimento de Sistemas pela Etec Jales </li>
 <br>
-<li> 👩‍💻 Formada em Tecnico em Desenvolvimento de Sistemas pela Etec Jales </li>
+<li> 🚀 Cursando Análise e Desenvolvimento de Sistemas na Fatec. </li>
 <br>
 <br>
 
 <div align="left">
   <a href="https://github.com/nabilasampaio2005/">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nabilasampaio2005&layout=compact&langs_count=7&theme=radical"/>
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=nabilasampaio2005&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
+  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nabilasampaio2005&layout=compact&langs_count=7&theme=radical"/>
+  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=nabilasampaio2005&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
 </div>
 
 <h2 align="left">🛠️&ensp; <i>L I N G U A G E N S</i> &ensp;🛠️</h2>
