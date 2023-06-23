@@ -18,7 +18,6 @@
   <a href="https://github.com/nabilasampaio2005/">
   <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nabilasampaio2005&layout=compact&langs_count=7&theme=radical&icon_color=DAD3AF&hide_border=true&border_radius=15&bg_color=0d1117"/>
   <img height="170em" src="https://github-readme-stats.vercel.app/api?username=nabilasampaio2005&show_icons=true&theme=radical&include_all_commits=true&count_private=true&icon_color=DAD3AF&hide_border=true&border_radius=15&bg_color=0d1117"/>
-   <img height="170em" src="https://github-readme-activity-graph.cyclic.app/graph?username=nabilasampaio2005&theme=dracula&icon_color=DAD3AF&hide_border=true&border_radius=15&bg_color=0d1117&point=FFF"/>
 </div>
 
 <h2 align="left">🛠️&ensp; <i>L I N G U A G E N S</i> &ensp;🛠️</h2>
