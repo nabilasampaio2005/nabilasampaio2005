@@ -5,7 +5,7 @@
 
  ###
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Poppins&size=32&pause=1000&color=980DE6&v&center=true&width=1000&lines=+Eu+sou+Nabila+Sampaio%2C;+Técnica+em+Desenvolvimento+de+Sistemas+pela+Etec+Jales.;Cursando+Análise+e+Desenvolvimento+de+Sistemas+na+Fatec.)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Poppins&size=32&pause=1000&color=0000FF&v&center=true&width=1000&lines=+Eu+sou+Nabila+Sampaio%2C;+Técnica+em+Desenvolvimento+de+Sistemas+pela+Etec+Jales.;Cursando+Análise+e+Desenvolvimento+de+Sistemas+na+Fatec.)](https://git.io/typing-svg)
 
 <div align="center">
   <a href="https://github.com/nabilasampaio2005/">
@@ -29,6 +29,10 @@
   <a href = "mailto:nabilasampaio@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://nabilasampaio.wixsite.com/meusite" target="_blank"><img src="https://img.shields.io/badge/Portfólio-%23E60023?style=for-the-badge&logo=devdotto&logoColor=white"></a>
 </div>
+
+<a href="https://www.linkedin.com/in/nabilasampaio/" target="_blank">
+  <img align="center" src="https://i.ibb.co/Kx2GSrT/linkedin.png" width="48px" height="48px">
+</a>
 
 ![Snake animation](https://github.com/nabilasampaio2005/nabilasampaio2005/blob/output/github-contribution-grid-snake.svg)
 
