@@ -23,8 +23,8 @@
 ###
 
 <div>
-  <img align = "center" width = "800px"  src = "https://i.pinimg.com/originals/a9/24/3d/a9243d82d3ad7878192211221b25a18c.gif">  
-  <h2 align="center">&ensp; <i>C O N T A T O S</i> &ensp;</h2>
+  <img align = "center" width = "900px"  src = "https://i.pinimg.com/originals/a9/24/3d/a9243d82d3ad7878192211221b25a18c.gif">  
+  <h2 align="center">☎&ensp;<i>C O N T A T O S</i> &ensp;☎</h2>
   <a href="https://www.linkedin.com/in/nabilasampaio/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
   <a href = "mailto:nabilasampaio@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://nabilasampaio.wixsite.com/meusite" target="_blank"><img src="https://img.shields.io/badge/Portfólio-%23E60023?style=for-the-badge&logo=devdotto&logoColor=white"></a>
