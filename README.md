@@ -5,7 +5,8 @@
 
  ##
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Poppins&size=32&pause=1000&color=blue&center=true&width=1000&lines=+Eu+sou+Nabila+Sampaio%2C;+Técnica+em+Desenvolvimento+de+Sistemas+pela+Etec+Jales.;Cursando+Análise+e+Desenvolvimento+de+Sistemas+na+Fatec.)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Poppins&size=32&pause=1000&color=980DE6&v&center=true&width=1000&lines=+Eu+sou+Nabila+Sampaio%2C;+Técnica+em+Desenvolvimento+de+Sistemas+pela+Etec+Jales.;Cursando+Análise+e+Desenvolvimento+de+Sistemas+na+Fatec.)](https://git.io/typing-svg)
+
 
 <div align="left">
   <a href="https://github.com/nabilasampaio2005/">
