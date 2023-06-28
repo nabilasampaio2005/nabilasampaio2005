@@ -8,15 +8,12 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Poppins&size=32&pause=1000&color=980DE6&v&center=true&width=1000&lines=+Eu+sou+Nabila+Sampaio%2C;+Técnica+em+Desenvolvimento+de+Sistemas+pela+Etec+Jales.;Cursando+Análise+e+Desenvolvimento+de+Sistemas+na+Fatec.)](https://git.io/typing-svg)
 
 
-<div align="left">
+<div align="center">
   <a href="https://github.com/nabilasampaio2005/">
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nabilasampaio2005&layout=compact&langs_count=7&theme=radical&icon_color=DAD3AF&hide_border=true&border_radius=15&bg_color=0d1117"/>
     
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=nabilasampaio2005&show_icons=true&theme=radical&include_all_commits=true&count_private=true&icon_color=DAD3AF&hide_border=true&border_radius=15&bg_color=0d1117"/>
     
-<img width = "180px" src="https://camo.githubusercontent.com/3b7c592ede97b6138ffd4b1cc1541c2f3b11fd39/687474703a2f2f33312e6d656469612e74756d626c722e636f6d2f31376665613932306666333665663466356238373764353231366137616164392f74756d626c725f6d6f39786a65387a5a34317163626975666f315f313238302e676966"/>
-</div>
-
 <h2 align="center">🛠️&ensp; <i>L I N G U A G E N S</i> &ensp;🛠️</h2>
   <img align="center" alt="Java logo" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
   <img align="center" alt="Js logo" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
