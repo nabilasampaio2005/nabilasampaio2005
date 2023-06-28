@@ -31,7 +31,11 @@
 </div>
 
 <a href="https://www.linkedin.com/in/nabilasampaio/" target="_blank">
-  <img align="center" src="https://i.ibb.co/Kx2GSrT/linkedin.png" width="48px" height="48px">
+<img align="center" src="https://i.ibb.co/Kx2GSrT/linkedin.png" width="46px" height="46px">
+</a>
+
+<a href="mailto:nabilasampaio@gmail.com" target="_blank">
+<img align="center" src="https://github.com/nabilasampaio2005/nabilasampaio2005/assets/127144120/59fada1b-b6a5-48db-b090-f117a6c54f9f" width="48px" height="48px">
 </a>
 
 ![Snake animation](https://github.com/nabilasampaio2005/nabilasampaio2005/blob/output/github-contribution-grid-snake.svg)
