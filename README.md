@@ -31,12 +31,12 @@
  <br> <br>
   <div style="display: block">
   <div style= "display: grid">
-  <img align="left" height="300" width="300" src="https://github.com/nabilasampaio2005/nabilasampaio2005/assets/127144120/ec89335b-a8fe-4a8e-b265-f0b6a37f01c4"/>
+  <img align="left" height="250" width="250" src="https://github.com/nabilasampaio2005/nabilasampaio2005/assets/127144120/ec89335b-a8fe-4a8e-b265-f0b6a37f01c4"/>
 </div>
  
 <br>
  
- [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Poppins&size=28&pause=500&color=0000FF&v&center=true&width=500&lines=+Para+mais+informações;Entre+em+contato;Me+acompanhe😉.)](https://git.io/typing-svg)
+ [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Poppins&size=25&pause=500&color=0000FF&v&center=true&width=500&lines=+Para+mais+informações;Entre+em+contato;Me+acompanhe😉.)](https://git.io/typing-svg)
  
   <a href="https://www.linkedin.com/in/nabilasampaio/" target="_blank">
   <img align="center" src="https://i.ibb.co/Kx2GSrT/linkedin.png" width="80px" height="80px">
