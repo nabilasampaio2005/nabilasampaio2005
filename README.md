@@ -26,9 +26,9 @@
   <img align = "center" width = "700px"  src = "https://i.pinimg.com/originals/a9/24/3d/a9243d82d3ad7878192211221b25a18c.gif">  
 </div>
 
-##
-
- <br>
+<br>
+ <img src="https://64.media.tumblr.com/005e37a86478a9c92da7d4d3d7464b40/2bd29f0062317531-b1/s400x600/c7edc142895bc810339223dfddf2aa57ced0c32b.gif" width="1000"/>
+<br><br>
 
 <div style="display: block"><br>
   <div style= "display: grid">
@@ -44,8 +44,7 @@
   <a href="https://nabilasampaio.wixsite.com/meusite" target="_blank"><img src="https://img.shields.io/badge/Portfólio-%23E60023?style=for-the-badge&logo=devdotto&logoColor=white"></a>
 </div> 
 
-##
-              
+   
 ![Snake animation](https://github.com/nabilasampaio2005/nabilasampaio2005/blob/output/github-contribution-grid-snake.svg)
 
   ### 👀👀👀
