@@ -30,9 +30,12 @@
 
  <br> <br>
  
-  <div style= "display: grid">
+  <div>
   <img align="left" height="200" width="200" src="https://github.com/nabilasampaio2005/nabilasampaio2005/assets/127144120/ec89335b-a8fe-4a8e-b265-f0b6a37f01c4"/>
+  </div>
 <br>
+
+<div>
  
  [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Poppins&size=22&pause=500&color=0000FF&v&center=true&width=500&lines=+Para+mais+informações;Entre+em+contato;Me+acompanhe😉.)](https://git.io/typing-svg)
  
