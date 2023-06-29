@@ -24,33 +24,36 @@
 
 <div>
   <img align = "center" width = "700px"  src = "https://i.pinimg.com/originals/a9/24/3d/a9243d82d3ad7878192211221b25a18c.gif">  
-
-<div style="display: block"><br>
  
- [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Poppins&size=28&pause=500&color=0000FF&v&center=true&width=500&lines=+Para+mais+informações;Entre+em+contato.)](https://git.io/typing-svg)
-  
+##
+ <br> <br>
+  <div style="display: block">
   <div style= "display: grid">
-  <img align="left" height="400" width="400" src="https://github.com/nabilasampaio2005/nabilasampaio2005/assets/127144120/ec89335b-a8fe-4a8e-b265-f0b6a37f01c4"/>
+  <img align="left" height="450" width="450" src="https://github.com/nabilasampaio2005/nabilasampaio2005/assets/127144120/ec89335b-a8fe-4a8e-b265-f0b6a37f01c4"/>
 </div>
-<br>
+
+
+ [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Poppins&size=28&pause=500&color=0000FF&v&center=true&width=500&lines=+Para+mais+informações;Entre+em+contato;Me+acompanhe😉.)](https://git.io/typing-svg)
 
   <div>
   <a href="https://www.linkedin.com/in/nabilasampaio/" target="_blank">
   <img align="center" src="https://i.ibb.co/Kx2GSrT/linkedin.png" width="60px" height="60px">
-   <h5> LINKEDIN </h5>
+   <h6> LINKEDIN </h6>
 </a>
 
  <a href="https://nabilasampaio.wixsite.com/meusite" target="_blank">
  <img align="center" src="https://github.com/nabilasampaio2005/nabilasampaio2005/assets/127144120/38a4b2a0-d4bc-471d-a2cd-a35e2f8bf49e" width="80px" height="80px">
+   <h6> PORTFÓLIO </h6>
 </a>
-   <h5> PORTFÓLIO </h5>
-   
+
  <a href="mailto:nabilasampaio@gmail.com" target="_blank">
  <img align="center" src="https://github.com/nabilasampaio2005/nabilasampaio2005/assets/127144120/59fada1b-b6a5-48db-b090-f117a6c54f9f" width="60px" height="60px">
+   <h6> GMAIL </h6>
 </a>
-    <h5> GMAIL </h5>
+ </div>
 </div>
-</div>
+
+##
        
 ![Snake animation](https://github.com/nabilasampaio2005/nabilasampaio2005/blob/output/github-contribution-grid-snake.svg)
 
