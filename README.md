@@ -30,7 +30,6 @@
 
  <br> <br>
  
-  <div style="display: block">
   <div style= "display: grid">
   <img align="left" height="200" width="200" src="https://github.com/nabilasampaio2005/nabilasampaio2005/assets/127144120/ec89335b-a8fe-4a8e-b265-f0b6a37f01c4"/>
 <br>
@@ -50,7 +49,6 @@
 </a>
 
  [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Poppins&size=15&pause=10000&color=0000FF&v&center=true&width=500&lines=+Aqui+está+meu+LINKEDIN,+PORTFÓLIO+e+GMAIL.)](https://git.io/typing-svg)
-</div>
 </div>
               
 ![Snake animation](https://github.com/nabilasampaio2005/nabilasampaio2005/blob/output/github-contribution-grid-snake.svg)
