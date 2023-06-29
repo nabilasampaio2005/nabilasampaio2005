@@ -28,21 +28,23 @@
 
 ##
 
- <br> <br>
+ <br>
 
 <div style="display: block"><br>
   <div style= "display: grid">
-  <img align="left" height="200" width="200" src="https://github.com/nabilasampaio2005/nabilasampaio2005/assets/127144120/ec89335b-a8fe-4a8e-b265-f0b6a37f01c4"/>
+  <img align="center" height="200" width="200" src="https://github.com/nabilasampaio2005/nabilasampaio2005/assets/127144120/ec89335b-a8fe-4a8e-b265-f0b6a37f01c4"/>
 </div>
 <br>
 
- [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Poppins&size=25&pause=500&color=0000FF&v&center=true&width=500&lines=+Para+mais+informações;Entre+em+contato;Me+acompanhe😉.)](https://git.io/typing-svg)
+ [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Poppins&size=25&pause=500&color=0000FF&v&center=true&width=500&lines=+Para+mais+informações;Entre+em+contato!;Me+acompanhe!😉.)](https://git.io/typing-svg)
  
   <div style= "display: grid">
   <a href = "mailto:nabilasampaio@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a style="margin-left: -100px" href="https://www.linkedin.com/in/nabilasampaio/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
   <a href="https://nabilasampaio.wixsite.com/meusite" target="_blank"><img src="https://img.shields.io/badge/Portfólio-%23E60023?style=for-the-badge&logo=devdotto&logoColor=white"></a>
 </div> 
+
+##
               
 ![Snake animation](https://github.com/nabilasampaio2005/nabilasampaio2005/blob/output/github-contribution-grid-snake.svg)
 
