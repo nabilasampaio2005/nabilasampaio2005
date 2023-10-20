@@ -33,7 +33,7 @@
 
 <div style="display: block"><br>
   <div style= "display: grid">
-  <img align="center" height="200" width="200" src="https://github.com/nabilasampaio2005/nabilasampaio2005/assets/127144120/ec89335b-a8fe-4a8e-b265-f0b6a37f01c4"/>
+  <img align="center" height="200" width="200" src="https://github.com/nabilasampaio2005/nabilasampaio2005/assets/127144120/2e413209-8970-4920-9df4-a72ee8ded4bc"/>
 </div>
 <br>
 
