@@ -1,7 +1,7 @@
 name: Gerar Datas
 
 on:
-  schedule: # executar a cada 1 hora
+  schedule: # executar a cada 5 hora
     - cron: "* */5 * * *"
   workflow_dispatch:
 
