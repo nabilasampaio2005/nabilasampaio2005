@@ -7,17 +7,10 @@
 
 <div align="center">
   <a href="https://github.com/nabilasampaio2005/">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nabilasampaio2005&layout=compact&langs_count=7&theme=radical&icon_color=DAD3AF&hide_border=true&border_radius=15&bg_color=0d1117"/>
-    
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=nabilasampaio2005&show_icons=true&theme=radical&include_all_commits=true&count_private=true&icon_color=DAD3AF&hide_border=true&border_radius=15&bg_color=0d1117"/>
-
-
-<div>
-  <img align = "center" width = "700px"  src = "https://i.pinimg.com/originals/a9/24/3d/a9243d82d3ad7878192211221b25a18c.gif">  
+  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=nabilasampaio2005&show_icons=true&theme=dark&include_all_commits=true&title_color=FF35A6FF&icon_color=FF35A6FF&count_private=true"/>
+  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nabilasampaio2005&layout=compact&title_color=FF35A6FF&langs_count=7&theme=dark"/>
 </div>
 
-<br>
- <img src="https://64.media.tumblr.com/005e37a86478a9c92da7d4d3d7464b40/2bd29f0062317531-b1/s400x600/c7edc142895bc810339223dfddf2aa57ced0c32b.gif" width="1000"/>
 <br>
 
 <div style="display: block"><br>
