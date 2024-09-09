@@ -22,7 +22,7 @@
 
 <br>
 
- [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Poppins&size=25&pause=500&color=0000FF&v&center=true&width=500&lines=+Para+mais+informações;Entre+em+contato!;Me+acompanhe!😉.)](https://git.io/typing-svg)
+ [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Poppins&size=24&pause=500&color=0000FF&v&center=true&width=500&lines=+Para+mais+informações;Entre+em+contato!;Me+acompanhe!😉.)](https://git.io/typing-svg)
  
   <div style= "display: grid">
   <a href = "mailto:nabilasampaio@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
