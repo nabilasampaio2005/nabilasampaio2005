@@ -7,8 +7,8 @@
 
 <div align="center">
   <a href="https://github.com/nabilasampaio2005/">
-  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=nabilasampaio2005&show_icons=true&theme=dark&include_all_commits=true&title_color=FF35A6FF&icon_color=FF35A6FF&count_private=true"/>
-  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nabilasampaio2005&layout=compact&title_color=FF35A6FF&langs_count=7&theme=dark"/>
+  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=nabilasampaio2005&show_icons=true&theme=dark&include_all_commits=true&title_color=0000FF&icon_color=0000FF&count_private=true"/>
+  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nabilasampaio2005&layout=compact&title_color=0000FF&langs_count=7&theme=dark"/>
 </div>
 
 <br>
