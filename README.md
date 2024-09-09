@@ -1,9 +1,11 @@
+<img src="https://64.media.tumblr.com/005e37a86478a9c92da7d4d3d7464b40/2bd29f0062317531-b1/s400x600/c7edc142895bc810339223dfddf2aa57ced0c32b.gif" width="1000"/>
 <div align="center">
 <img height = "80px" src = "https://user-images.githubusercontent.com/92947069/183311882-d6cec5b0-18e8-48cf-a551-098f295fbce5.gif"/>
 
  ###
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Poppins&size=24&pause=1000&color=0000FF&v&center=true&width=1000&lines=+Eu+sou+Nabila+Sampaio%2C;+Técnica+em+Desenvolvimento+de+Sistemas+pela+Etec+Jales.;Cursando+Análise+e+Desenvolvimento+de+Sistemas+na+Fatec.)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Poppins&size=24&pause=500&color=0000FF&v&center=true&width=1000&lines=Oie,+eu+sou+a+Nabila✨)](https://git.io/typing-svg)
+
 
 <div align="center">
   <a href="https://github.com/nabilasampaio2005/">
@@ -17,6 +19,7 @@
   <div style= "display: grid">
   <img align="center" height="200" width="200" src="https://github.com/nabilasampaio2005/nabilasampaio2005/assets/127144120/2e413209-8970-4920-9df4-a72ee8ded4bc"/>
 </div>
+
 <br>
 
  [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Poppins&size=25&pause=500&color=0000FF&v&center=true&width=500&lines=+Para+mais+informações;Entre+em+contato!;Me+acompanhe!😉.)](https://git.io/typing-svg)
