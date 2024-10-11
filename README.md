@@ -4,7 +4,7 @@
 
  ###
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Poppins&size=24&pause=500&color=0000FF&v&center=true&width=1000&lines=Oie,+eu+sou+a+Nabila✨)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Poppins&size=24&pause=500&color=0000FF&v&center=true&width=1000&lines=Seja+muito+bem+vinda(o)+ao+meu+Perfil!+✨)](https://git.io/typing-svg)
 
 
 <div align="center">
